@@ -16,5 +16,5 @@ while (count > 0){
         alert(count+" bottle left need to stock up soon");
         console.log( count+" bottle left need to stock up soon")
     }
-   
+   //new change
 }
